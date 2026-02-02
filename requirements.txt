@@ -1,0 +1,12 @@
+fastapi==0.121.1
+uvicorn[standard]
+python-dotenv==1.0.0
+openai
+langchain
+langchain-community
+langchain_text_splitters
+sentence-transformers
+faiss-cpu==1.13.1
+torch
+cross-encoder
+pydantic
