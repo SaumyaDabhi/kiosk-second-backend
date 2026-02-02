@@ -8,5 +8,4 @@ langchain_text_splitters
 sentence-transformers
 faiss-cpu==1.13.1
 torch
-cross-encoder
 pydantic
